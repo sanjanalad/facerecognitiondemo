@@ -1,0 +1,3 @@
+streamlit
+opencv-contrib-python-headless
+gunicorn==19.6.0
